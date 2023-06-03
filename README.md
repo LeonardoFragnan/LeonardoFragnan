@@ -1,4 +1,4 @@
-### Olá! Eu sou o LeoFragnan ✌️ 
+### Olá! Eu sou o LeoFragnan ✌️😁
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](1197991-6076)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonardoFragnan)
@@ -10,9 +10,12 @@
 ## Tenho conhecimento em:
 
 <div style="display: inline_block"><br/>
- <img align="center" alt="JS" src="	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
- <img align="center" alt="Markdown" src="	https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
- <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white	"/>
- <img align="center" alt="NODE JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white	"/>
+ <img align="center" alt="JS" src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E/>
+ <img align="center" alt="Markdown" src=	https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white/>
+ <img align="center" alt="MYSQL" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white	/>
+ <img align="center" alt="NODE JS" src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white	/>
  </div><br/>
-
+ 
+ ## Frase de efeito 🚀👨🏽‍💻
+ 
+#### "Um engenheiro de qualidade de software é o guardião da excelência técnica, assegurando que cada linha de código seja uma obra-prima de precisão e confiabilidade, para construir pontes sólidas entre a visão do usuário e a realidade do produto."
